@@ -1,0 +1,15 @@
+{
+  "name": "@abskmj/mongoose-plugin-timestamps",
+  "version": "1.0.0",
+  "description": "Mongoose plugin to record timestamps when model instance was created and modified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abskmj@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abskmj/mongoose-plugin-timestamps.git"
+  }
+}
